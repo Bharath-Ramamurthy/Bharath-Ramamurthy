@@ -36,13 +36,6 @@ Strong focus on clean architecture, performance, and real-world impact.
 
 ---
 
-### 🔹 Synthetic Network Test System (ISP)
-- Built backend services for proactive network health monitoring
-- Managed distributed test agents and centralized reporting
-- Delivered real-time dashboards for operational visibility
-
----
-
 ## 🏢 Experience (Brief)
 
 **Software Engineer — Clarion Technologies**  
