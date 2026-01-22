@@ -25,16 +25,4 @@ Strong focus on clean architecture, performance, and real-world impact.
 
 ---
 
-## 🏢 Experience (Brief)
-
-**Software Engineer — Clarion Technologies**  
-*Working on security-focused backend systems and AI-assisted workflows*
-
-**Software Engineer — ACT Fibernet**  
-*Built large-scale automation and monitoring systems for telecom infrastructure*
-
----
-
-
-
 ⭐ Feel free to explore my repositories or reach out for collaboration.
