@@ -1,5 +1,4 @@
 # Bharath R 👋
-**Software Engineer | Python Backend | GenAI | Bengaluru**
 
 Software Engineer with **4+ years of experience** building scalable backend systems,
 automation platforms, and **production-ready GenAI applications (RAG, LLMs)**.
@@ -9,16 +8,6 @@ Strong focus on clean architecture, performance, and real-world impact.
 🔗 LinkedIn | GitHub  
 
 ---
-
-## 🧑‍💻 Core Skills
-
-- **Backend:** Python, FastAPI, Flask, REST APIs, JWT, WebSockets, Microservices  
-- **Databases:** PostgreSQL, Redis, SQLite, SQLAlchemy, FAISS  
-- **Generative AI:** LLMs, RAG, LangChain, Hugging Face, OpenAI  
-- **DevOps:** Docker, Git, CI/CD (GitHub Actions), Linux  
-
----
-
 ## 🚀 Selected Projects
 
 ### 🔹 JanamSaathi AI — GenAI Matching Platform
@@ -46,12 +35,6 @@ Strong focus on clean architecture, performance, and real-world impact.
 
 ---
 
-## 🎯 What I Work On
-- Scalable backend architectures  
-- Practical GenAI use cases (RAG, agents)  
-- Automation that saves time and cost  
-- Writing clean, maintainable code  
 
----
 
 ⭐ Feel free to explore my repositories or reach out for collaboration.
