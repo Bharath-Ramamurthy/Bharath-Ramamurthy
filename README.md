@@ -1,16 +1,64 @@
-## Hi there 👋
+# Bharath R 👋
+**Software Engineer | Python Backend | GenAI | Bengaluru**
 
-<!--
-**Bharath-Ramamurthy/Bharath-Ramamurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with **4+ years of experience** building scalable backend systems,
+automation platforms, and **production-ready GenAI applications (RAG, LLMs)**.
+Strong focus on clean architecture, performance, and real-world impact.
 
-Here are some ideas to get you started:
+📧 bharath.workmail@gmail.com  
+🔗 LinkedIn | GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Core Skills
+
+- **Backend:** Python, FastAPI, Flask, REST APIs, JWT, WebSockets, Microservices  
+- **Databases:** PostgreSQL, Redis, SQLite, SQLAlchemy, FAISS  
+- **Generative AI:** LLMs, RAG, LangChain, Hugging Face, OpenAI  
+- **DevOps:** Docker, Git, CI/CD (GitHub Actions), Linux  
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 JanamSaathi AI — GenAI Matching Platform
+- Built an LLM-powered matching system using **RAG + vector search**
+- Improved application performance using **Redis caching**
+- Implemented secure authentication and real-time updates
+- Designed with scalability and production usage in mind
+
+---
+
+### 🔹 HireMail AI — Resume & Cover Letter Automation
+- Developed a **multi-agent GenAI system** for job-specific resume generation
+- Reduced manual effort significantly through AI-driven workflows
+- Enabled support for multiple LLM providers via a unified architecture
+
+---
+
+### 🔹 Synthetic Network Test System (ISP)
+- Built backend services for proactive network health monitoring
+- Managed distributed test agents and centralized reporting
+- Delivered real-time dashboards for operational visibility
+
+---
+
+## 🏢 Experience (Brief)
+
+**Software Engineer — Clarion Technologies**  
+*Working on security-focused backend systems and AI-assisted workflows*
+
+**Software Engineer — ACT Fibernet**  
+*Built large-scale automation and monitoring systems for telecom infrastructure*
+
+---
+
+## 🎯 What I Work On
+- Scalable backend architectures  
+- Practical GenAI use cases (RAG, agents)  
+- Automation that saves time and cost  
+- Writing clean, maintainable code  
+
+---
+
+⭐ Feel free to explore my repositories or reach out for collaboration.
