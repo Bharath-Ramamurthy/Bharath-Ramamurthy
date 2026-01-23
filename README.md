@@ -11,7 +11,7 @@ Strong focus on **clean architecture, performance optimization, and real-world i
 
 ## 🚀 Projects
 
-### 🔹 [JanamSaathi AI](https://github.com/yourusername/janamsaathi-ai)  
+### 🔹 [JanamSaathi AI](https://github.com/Bharath-Ramamurthy/JanamSaathi-AI)  
 *GenAI Relationship Matching Platform*  
 *Aug 2025 – Present*
 
@@ -21,7 +21,7 @@ Strong focus on **clean architecture, performance optimization, and real-world i
 
 ---
 
-### 🔹 [HireMail AI](https://github.com/yourusername/hiremail-ai)  
+### 🔹 [HireMail AI](https://github.com/Bharath-Ramamurthy/hiremailai.in)  
 *Resume & Cover Letter Automation Platform*  
 *July 2025 – Present*
 
