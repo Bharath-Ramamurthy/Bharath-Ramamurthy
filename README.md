@@ -21,7 +21,7 @@ Strong focus on **clean architecture, performance optimization, and real-world i
 
 ---
 
-### 🔹 [HireMail AI](https://github.com/Bharath-Ramamurthy/hiremailai.in)  
+### 🔹 [GenApply](https://github.com/Bharath-Ramamurthy/gen-apply)  
 *Resume & Cover Letter Automation Platform*  
 *July 2025 – Present*
 
