@@ -1,23 +1,6 @@
 # Hi, I'm Bharath R 👋
 
-Building **production-ready GenAI applications** that solve real problems.  
-**4 years** crafting scalable backends | **₹1.5M+ cost savings** delivered | **Python & LLM specialist**
-
----
-
-## 💼 About Me
-
 Software Engineer with **4 years of experience** specializing in **Python, FastAPI, Flask, REST APIs, and Generative AI (LLMs, RAG)**. Proven track record building scalable backend systems and **production-ready GenAI applications**, delivering **₹1.5M+ in cost savings** and measurable performance gains.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python  
-**Frameworks:** FastAPI, Flask  
-**GenAI:** LangChain, OpenAI, FAISS, RAG, Multi-Agent Systems  
-**Databases:** PostgreSQL, Redis  
-**Tools:** Docker, WebSockets, JWT, Git
 
 ---
 
@@ -44,22 +27,6 @@ Software Engineer with **4 years of experience** specializing in **Python, FastA
 - 🤖 Multi-LLM orchestration (OpenAI, Mistral, Gemini, Hugging Face)
 
 **Tech:** Multi-Agent AI • LangChain • FastAPI • Factory Pattern
-
----
-
-## 🔭 Currently Working On
-
-- Exploring advanced RAG architectures for domain-specific Q&A systems
-- Building agentic workflows with LangGraph
-- Contributing to open-source GenAI tools
-
----
-
-## 📊 GitHub Stats
-
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-Ramamurthy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-Ramamurthy&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
