@@ -10,9 +10,10 @@ Software Engineer with **4 years of experience** specializing in **Python, FastA
 **LLM-Powered Relationship Matching Platform**
 
 🎯 **Impact:**
-- ⚡ **85% faster** relationship assessments via FAISS vector search
-- 📈 **50% reduced** database load with Redis write-behind caching
-- 🔐 Secure auth + real-time updates (JWT + WebSockets)
+- ⚡ **85% faster** relationship assessments (months → weeks) using **FAISS vector search** with semantic embeddings
+- 📈 **50% reduced** database load via **Redis write-behind caching**, improving throughput and stability
+- 🔐 **JWT-based authentication** + **real-time progress tracking** via WebSockets for enhanced UX
+
 
 ---
 
@@ -20,9 +21,9 @@ Software Engineer with **4 years of experience** specializing in **Python, FastA
 **AI Resume & Cover Letter Automation**
 
 🎯 **Impact:**
-- ⏱️ **93% time reduction** (30 min → 2 min per application)
-- 🛠️ **60% reliability boost** via Auto-Diagnostic Agent
-- 🤖 Multi-LLM orchestration (OpenAI, Mistral, Gemini, Hugging Face)
+- ⏱️ **93% time reduction** (30 min → 2 min) with **multi-agent AI orchestration** for job-specific content generation
+- 🛠️ **60% reliability boost** via **Auto-Diagnostic Agent** with autonomous runtime issue resolution
+- 🤖 **Multi-LLM support** (OpenAI, Mistral, Gemini, Hugging Face) through **factory pattern implementation**
 
 ---
 
