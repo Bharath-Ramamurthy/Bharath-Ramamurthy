@@ -1,6 +1,6 @@
 # Hi, I'm Bharath R 👋
 
-Software Engineer with **4 years of experience** specializing in **Python, FastAPI, Flask, REST APIs, and Generative AI (LLMs, RAG)**. Proven track record building scalable backend systems and **production-ready GenAI applications**, delivering **₹1.5M+ in cost savings** and measurable performance gains.
+Software Engineer with **4 years of experience** specializing in **Python, FastAPI, Flask, REST APIs, and Generative AI (LLMs, RAG)**. Proven track record building scalable backend systems and **production-ready GenAI applications**, delivering **₹1.5M+ in in annual cost savings** and measurable performance gains.
 
 ---
 
