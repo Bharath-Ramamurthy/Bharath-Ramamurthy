@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Bharath R 👋
 
-<!--
-**Bharath-Ramamurthy/Bharath-Ramamurthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **production-ready GenAI applications** that solve real problems.  
+**4 years** crafting scalable backends | **₹1.5M+ cost savings** delivered | **Python & LLM specialist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 About Me
+
+Software Engineer with **4 years of experience** specializing in **Python, FastAPI, Flask, REST APIs, and Generative AI (LLMs, RAG)**. Proven track record building scalable backend systems and **production-ready GenAI applications**, delivering **₹1.5M+ in cost savings** and measurable performance gains.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python  
+**Frameworks:** FastAPI, Flask  
+**GenAI:** LangChain, OpenAI, FAISS, RAG, Multi-Agent Systems  
+**Databases:** PostgreSQL, Redis  
+**Tools:** Docker, WebSockets, JWT, Git
+
+---
+
+## 🚀 Featured Projects
+
+### [JanamSaathi AI](https://github.com/Bharath-Ramamurthy/JanamSaathi-AI)
+**LLM-Powered Relationship Matching Platform**
+
+🎯 **Impact:**
+- ⚡ **85% faster** relationship assessments via FAISS vector search
+- 📈 **50% reduced** database load with Redis write-behind caching
+- 🔐 Secure auth + real-time updates (JWT + WebSockets)
+
+**Tech:** FastAPI • FAISS • Redis • LLMs • WebSockets
+
+---
+
+### [GenApply](https://github.com/Bharath-Ramamurthy/gen-apply)
+**AI Resume & Cover Letter Automation**
+
+🎯 **Impact:**
+- ⏱️ **93% time reduction** (30 min → 2 min per application)
+- 🛠️ **60% reliability boost** via Auto-Diagnostic Agent
+- 🤖 Multi-LLM orchestration (OpenAI, Mistral, Gemini, Hugging Face)
+
+**Tech:** Multi-Agent AI • LangChain • FastAPI • Factory Pattern
+
+---
+
+## 🔭 Currently Working On
+
+- Exploring advanced RAG architectures for domain-specific Q&A systems
+- Building agentic workflows with LangGraph
+- Contributing to open-source GenAI tools
+
+---
+
+## 📊 GitHub Stats
+
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-Ramamurthy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-Ramamurthy&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharath-Ramamurthy)
+
+**Open to:** GenAI collaborations • Backend engineering roles • Open source contributions
+
+---
+
+⭐️ Feel free to explore my repositories and reach out for collaboration!
