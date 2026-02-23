@@ -26,7 +26,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 - **Redis write-behind caching** absorbs read/write spikes during high-traffic match discovery, reducing direct database load by ~50% in load testing
 - **JWT authentication** + **WebSocket-based progress tracking** keep users informed in real time during AI analysis — no page refreshes, no guessing
 
-**Stack:** Python · Flutter · FastAPI · FAISS · Redis · WebSockets · JWT · PostgreSQL
+**Stack:**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
@@ -67,7 +67,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 - **Auto-Diagnostic Agent** — Monitors for runtime issues and attempts autonomous resolution before surfacing errors to the user. Improved reliability significantly (~60% reduction in failed runs during internal testing)
 - **Factory pattern for LLM providers** — Swapping between OpenAI, Mistral, Gemini, and Hugging Face requires zero application-layer changes. I chose this pattern specifically to avoid vendor lock-in and enable cost optimization per use case
 
-**Stack:** Python · FastAPI · LangChain · RAG · FAISS · OpenAI · Mistral · Gemini · Hugging Face
+**Stack:** 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![LangChain](https://img.shields.io/badge/LangChain-0.1.16-6F42C1.svg?style=flat&logo=HuggingFace&logoColor=white)](https://www.langchain.com)
