@@ -4,7 +4,7 @@
 
 I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelines** — with a focus on solving real-world problems at scale, not just prototyping ideas.
 
-> Currently open to backend / GenAI engineering roles. [Let's connect →](https://linkedin.com/in/YOUR_HANDLE)
+> Currently open to backend / GenAI engineering roles. [Let's connect →](https://www.linkedin.com/in/bharath-ramamurthy/)
 
 ---
 
@@ -26,7 +26,17 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 - **Redis write-behind caching** absorbs read/write spikes during high-traffic match discovery, reducing direct database load by ~50% in load testing
 - **JWT authentication** + **WebSocket-based progress tracking** keep users informed in real time during AI analysis — no page refreshes, no guessing
 
-**Stack:** Python · FastAPI · FAISS · Redis · WebSockets · JWT · PostgreSQL
+**Stack:** Python · Flutter · FastAPI · FAISS · Redis · WebSockets · JWT · PostgreSQL
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.115.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
+[![FAISS](https://img.shields.io/badge/FAISS-1.7.3-000000.svg?style=flat&logo=python&logoColor=white)](https://github.com/facebookresearch/faiss)
+[![LLMs](https://img.shields.io/badge/LLMs-Transformers-6F42C1.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/transformers/index)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-FF6600.svg?style=flat&logo=OpenAI&logoColor=white)](https://www.researchgate.net/publication/363693134_Retrieval-Augmented_Generation)
+[![Redis](https://img.shields.io/badge/Redis-7.0-DC382D.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -59,22 +69,6 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 
 ---
 
-## 💼 What I've Shipped in Production
-
-- **₹1.5M+ in annual cost savings** delivered through backend optimizations and GenAI automation at [Company Name]
-- Production RAG pipelines, LLM integrations, and REST APIs serving real users — not just demos
-- Systems designed with caching, async processing, and vector search at their core
-
----
-
-## 🛠 Tech Stack
-
-**Backend:** Python · FastAPI · Flask · REST APIs · WebSockets  
-**AI/ML:** LangChain · RAG · FAISS · OpenAI · Mistral · Gemini · Hugging Face  
-**Data & Storage:** PostgreSQL · Redis · Vector Databases  
-**Auth & Infra:** JWT · Docker · Git  
-
----
 
 ## 📫 Let's Talk
 
