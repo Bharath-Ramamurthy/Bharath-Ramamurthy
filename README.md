@@ -75,7 +75,6 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 [![OpenAI](https://img.shields.io/badge/OpenAI-1.29.0-412991.svg?style=flat&logo=OpenAI&logoColor=white)](https://openai.com)
 [![Transformers](https://img.shields.io/badge/Transformers-4.41.2-FF6F61.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/transformers/index)
 [![HuggingFace-Hub](https://img.shields.io/badge/HuggingFace_Hub-0.23.0-FB8C00.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/huggingface_hub)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
 
 
 ---
