@@ -59,7 +59,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 3. **Write ✍️** — Personalized cover letter generated in seconds, not minutes
 4. **Review 📧** — Draft handed back to the user before anything is sent
 
-**Result:** 45–60 minutes → **5–8 minutes per application** (~85% time reduction, measured across test runs)
+**Result:** 15–30 minutes → **2–4 minutes per application** (~85% time reduction, measured across test runs)
 
 **Key engineering decisions:**
 
