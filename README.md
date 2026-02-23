@@ -10,7 +10,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 
 ## 🚀 Featured Projects
 
-### [JanamSaathi AI](https://github.com/Bharath-Ramamurthy/JanamSaathi-AI) — AI-Powered Matrimony Platform
+### [JanamSaathi AI](https://github.com/Bharath-Ramamurthy/JanamSaathi-AI): AI-Powered Matrimony Platform
 
 **The problem:** Indian arranged marriage timelines are brutally slow.
 
@@ -42,7 +42,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 
 ---
 
-### [GenApply](https://github.com/Bharath-Ramamurthy/gen-apply) — AI Resume & Cover Letter Automation
+### [GenApply](https://github.com/Bharath-Ramamurthy/gen-apply): AI Resume & Cover Letter Automation
 
 **The problem:** Job applications are broken at scale.
 
@@ -75,8 +75,6 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 [![OpenAI](https://img.shields.io/badge/OpenAI-1.29.0-412991.svg?style=flat&logo=OpenAI&logoColor=white)](https://openai.com)
 [![Transformers](https://img.shields.io/badge/Transformers-4.41.2-FF6F61.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/transformers/index)
 [![HuggingFace-Hub](https://img.shields.io/badge/HuggingFace_Hub-0.23.0-FB8C00.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/huggingface_hub)
-[![ReportLab](https://img.shields.io/badge/ReportLab-4.2.0-0A7FC1.svg?style=flat&logo=Python&logoColor=white)](https://www.reportlab.com/)
-[![pdfplumber](https://img.shields.io/badge/pdfplumber-0.10.3-5A5A5A.svg?style=flat&logo=Python&logoColor=white)](https://github.com/jsvine/pdfplumber)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
 
 
