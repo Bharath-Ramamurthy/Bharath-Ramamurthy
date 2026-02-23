@@ -36,7 +36,7 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 [![Redis](https://img.shields.io/badge/Redis-7.0-DC382D.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B.svg?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B.svg?style=flat&logo=flutter&logoColor=white)]](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.5+-0175C2.svg?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
