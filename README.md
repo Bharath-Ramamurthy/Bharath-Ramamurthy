@@ -85,6 +85,6 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 
 ## 📫 Let's Talk
 
-If you're building something ambitious in backend infrastructure or GenAI and want an engineer who ships — reach out.
+If you're building something ambitious in backend infrastructure or GenAI and want an engineer who ships - reach out.
 
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/bharath-ramamurthy/) · [Email](mailto:bharath.workmail@gmail.com)
