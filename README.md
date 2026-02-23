@@ -36,6 +36,8 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 [![Redis](https://img.shields.io/badge/Redis-7.0-DC382D.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B.svg?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.5+-0175C2.svg?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -66,6 +68,17 @@ I specialize in **Python · FastAPI · Flask · REST APIs · LLMs · RAG pipelin
 - **Factory pattern for LLM providers** — Swapping between OpenAI, Mistral, Gemini, and Hugging Face requires zero application-layer changes. I chose this pattern specifically to avoid vendor lock-in and enable cost optimization per use case
 
 **Stack:** Python · FastAPI · LangChain · RAG · FAISS · OpenAI · Mistral · Gemini · Hugging Face
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.30.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.16-6F42C1.svg?style=flat&logo=HuggingFace&logoColor=white)](https://www.langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-latest-0099FF.svg?style=flat&logo=OpenAI&logoColor=white)](https://www.langgraph.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-1.29.0-412991.svg?style=flat&logo=OpenAI&logoColor=white)](https://openai.com)
+[![Transformers](https://img.shields.io/badge/Transformers-4.41.2-FF6F61.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/transformers/index)
+[![HuggingFace-Hub](https://img.shields.io/badge/HuggingFace_Hub-0.23.0-FB8C00.svg?style=flat&logo=HuggingFace&logoColor=white)](https://huggingface.co/docs/huggingface_hub)
+[![ReportLab](https://img.shields.io/badge/ReportLab-4.2.0-0A7FC1.svg?style=flat&logo=Python&logoColor=white)](https://www.reportlab.com/)
+[![pdfplumber](https://img.shields.io/badge/pdfplumber-0.10.3-5A5A5A.svg?style=flat&logo=Python&logoColor=white)](https://github.com/jsvine/pdfplumber)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-F4F4F4.svg?style=flat&logo=SQLAlchemy&logoColor=black)](https://www.sqlalchemy.org)
+
 
 ---
 
